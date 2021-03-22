@@ -58,7 +58,7 @@ function duplicateEncode(word) {
 
 ## Experience
 
-- Writing code in the university on c++, java, JS, assembler
+- Writing code in the university on C++, Java, JS, assembler
 - Solving tasks in [Codewars](https://www.codewars.com/users/Aleksiej)
 - Create react project using [The Rick and Morty API](https://rickandmortyapi.com/). [GitHub Repository](https://github.com/losha97/api-example-rick-morty)
 - Create web app for adding, changing and deleteing questions with answers from/to database and generating PDF doc by FPDF) using PHP, JS, XAMPP, FPDF library with OOP
