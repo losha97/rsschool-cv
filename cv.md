@@ -71,14 +71,16 @@ function duplicateEncode(word) {
   - Specjalność: Inteligentne Systemy przemysłowe
 - 2019/11/25 - completed and certificated the KNX eCampus ETS Course
 
-## English
+## Languages
+
+#### English
 
 Learning in primary elementary, middle and high school
 
-## Polish
+#### Polish
 
 Native
 
-## Russian
+#### Russian
 
 Native
